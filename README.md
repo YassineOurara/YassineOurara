@@ -50,5 +50,3 @@ I am a student passionate in robotics and intelligence artificielle
 </p>
 
 
-
-
