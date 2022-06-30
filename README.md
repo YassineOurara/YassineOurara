@@ -49,7 +49,7 @@ I am passionate in robotics and intelligence artificielle
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&locale=en" alt="yassineourara" /></p>
-
-<a href="http://www.github.com/wagaabderrahim"><img src="https://github-readme-stats.vercel.app/api?username=wagaabderrahim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=84cc16&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="wagaabderrahim's GitHub stats" /></a>
+<p align="center">
+<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=c60000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
+</p>
 
