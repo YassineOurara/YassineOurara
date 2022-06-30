@@ -29,7 +29,7 @@ I am a student passionate in robotics and intelligence artificielle
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/python.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/arduino.svg" width="32" height="32" />
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/html.svg" width="32" height="32" />
 </p>
 
