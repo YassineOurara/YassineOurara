@@ -35,8 +35,10 @@ I am a student passionate in robotics and intelligence artificielle
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" />
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
 </p>
 
