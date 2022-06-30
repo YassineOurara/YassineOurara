@@ -26,12 +26,11 @@ I am a student passionate in robotics and intelligence artificielle
 </p>
 
 ## Skills 
-<h2>Programming Languages</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/c.svg" width="32" height="32" />
-  
-<!-- <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/linked-in-alt.svg" height="32" width="32" /></a>  -->
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/python.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/arduino.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/html.svg" width="32" height="32" />
 </p>
 
 
