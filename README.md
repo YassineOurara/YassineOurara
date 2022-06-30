@@ -29,9 +29,15 @@ I am a student passionate in robotics and intelligence artificielle
 <h4 align="center">Programming Languages</h4>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="32" height="32" />
-<img <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" />
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/html.svg" width="32" height="32" />
 </p>
 
 
