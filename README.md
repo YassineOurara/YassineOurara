@@ -54,9 +54,9 @@ I am passionate in robotics and intelligence artificielle
 </p>
 
 <p align="center">
-<a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=84cc16&background=bbbbbb&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=84cc16&background=bbbbbb&ring=0891b2&fire=ff8c02&currStreakNum=ff0000&currStreakLabel=ff0000&sideNums=ff0000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/yassineourara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineourara&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/yassineourara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineourara&langs_count=10&title_color=000000&text_color=ff0000&icon_color=facc15&bg_color=bbbbbb&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
