@@ -37,13 +37,12 @@ I am a student passionate in robotics and intelligence artificielle
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="32" height="32" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32" height="32" /></p>
    <h4 align="center">Database</h4>
    <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uml/uml-original.svg" width="32" height="32" /></p>
    <h4 align="center">Robotics</h4>
    <p align="center"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
