@@ -50,6 +50,6 @@ I am passionate in robotics and intelligence artificielle
 </p>
 
 <p align="center">
-<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=c60000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
+<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=ff0000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
 </p>
 
