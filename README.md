@@ -26,7 +26,7 @@ I am a student passionate in robotics and intelligence artificielle
 </p>
 
 ## Skills 
-   <h4 align="center">Programming Languages</h4>
+   <h4 align="left">Programming Languages</h4>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />
