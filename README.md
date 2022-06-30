@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### A COMPUTER SCIENTIST AT UNIVERSITY MOULAY ISMAIL, MEKNES,MOROCCO
-I am a student passionate in robotics and intelligence artificielle
+### A COMPUTER STUDENT AT UNIVERSITY MOULAY ISMAIL, MEKNES,MOROCCO
+I am passionate in robotics and intelligence artificielle
 
 ## Connections 
 
