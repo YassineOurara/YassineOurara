@@ -49,4 +49,5 @@ I am passionate in robotics and intelligence artificielle
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&locale=en" alt="yassineourara" /></p>
 
