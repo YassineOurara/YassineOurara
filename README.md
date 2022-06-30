@@ -20,17 +20,20 @@ I am a student passionate in robotics and intelligence artificielle
 ## Connections 
 
 <p align="center"> 
-<a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/main/readme-generator/main/public/icons/connections/facebook.svg" width="32" height="32" /></a>  
+<a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>  
 <a href="https://www.instagram.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <!-- <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/linked-in-alt.svg" height="32" width="32" /></a>  -->
 </p>
 
 ## Skills 
-
+<h2>Programming Languages</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/c.svg" width="32" height="32" />
+  
 <!-- <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/linked-in-alt.svg" height="32" width="32" /></a>  -->
 </p>
+
+
 
 
