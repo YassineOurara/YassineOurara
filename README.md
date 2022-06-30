@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### A COMPUTER SCIENTIST AT UNIVERSITY MOULAY ISMAIL, MEKNES,MOROCCO
 I am a student passionate in robotics and intelligence artificielle
 
-## Contact Me :
+## Connection :
 
 <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-ourara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="yassine-ourara" height="30" width="40" /></a>
