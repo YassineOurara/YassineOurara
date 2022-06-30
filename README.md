@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 I am a student passionate in robotics and intelligence artificielle
 
 ## Connection :
+<p align="left"> 
+<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Connection/linked-in-alt.svg" height="32" width="32" /></a>
 
-<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-ourara" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/abdrahime.waga/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<!-- <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> -->
+  
+</p>
