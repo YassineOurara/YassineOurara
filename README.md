@@ -1,5 +1,6 @@
+<p align="center">
 ### Hey (أهلا) 👋 My name is YASSINE OURARA
-
+</p>
 <!--
 **YassineOurara/YassineOurara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
