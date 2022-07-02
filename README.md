@@ -59,7 +59,3 @@ I am passionate in robotics and intelligence artificielle
 <p align="center">
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=ff8c02&currStreakNum=000000&currStreakLabel=ff0000&sideNums=000000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/yassineourara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineourara&langs_count=10&title_color=000000&text_color=ff0000&icon_color=facc15&bg_color=bbbbbb&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
