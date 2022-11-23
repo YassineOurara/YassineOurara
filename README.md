@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## Skills 
    <h4 align="left">Programming Languages</h4>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />
