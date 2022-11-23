@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" width="32" height="32" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" /></p>
    <h4 align="left">Web developement</h4>
    <p align="left"> 
