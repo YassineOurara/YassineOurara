@@ -17,15 +17,6 @@ Here are some ideas to get you started:
 -->
 ### A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS AT UNIVERSITY MOULAY ISMAIL,MOROCCO
 
-## Contact me 
-
-<p align="center"> 
-<a href="https://www.facebook.com/ya.ourara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/_don.yassine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><br>
-   <a href="https://twitter.com/YassineOurara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
-</p>
-
 ## Skills 
    <h4 align="left">Programming Languages</h4>
 <p align="left"> 
@@ -51,6 +42,15 @@ Here are some ideas to get you started:
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
 
    
+</p>
+
+## Contact me 
+
+<p align="center"> 
+<a href="https://www.facebook.com/ya.ourara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/_don.yassine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><br>
+   <a href="https://twitter.com/YassineOurara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
 </p>
 
 ## Stats
