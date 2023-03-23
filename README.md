@@ -64,4 +64,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=ff8c02&currStreakNum=000000&currStreakLabel=ff0000&sideNums=000000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
+<h3 align="left">Most used languages: </h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaimabenaboud&layout=compact&theme=dark"/>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=yassineourara&label=Profile%20views&color=000000&style=flat" alt="yassineourara" /> </p>
