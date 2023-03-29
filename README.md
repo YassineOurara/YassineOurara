@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ## Contact me 
 
-<p align="center"> 
+<p align="left"> 
 <a href="https://www.facebook.com/ya.ourara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/_don.yassine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><br>
    <a href="https://twitter.com/YassineOurara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" width="32" /></a>
@@ -79,8 +79,9 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<p align="left">
-<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=ff0000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
+<p align="center">
+<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=ff0000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a></p>
+   <p align="center">
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=ff8c02&currStreakNum=000000&currStreakLabel=ff0000&sideNums=000000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
 
