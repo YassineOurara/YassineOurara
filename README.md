@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h5 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h5>
+<h4 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h4>
 
 ## Skills 
    <h4 align="left">Programming Languages</h4>
