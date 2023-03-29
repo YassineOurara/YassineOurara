@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
    <h4 align="left">App developement</h4>
    <p align="left"> 
-   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" alt="androidstudio" width="40" height="40"/> </a> 
+      <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="androidstudio" width="40" height="40"/> 
+      <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="32" height="32" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
       <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" width="32" height="32" />
