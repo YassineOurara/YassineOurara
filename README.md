@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=ff8c02&currStreakNum=000000&currStreakLabel=ff0000&sideNums=000000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=0e75b6&style=flat" alt="YassineOurara" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
  <p align="right"> 
 <!-- <a href="https://www.facebook.com/ya.ourara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/_don.yassine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> -->
