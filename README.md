@@ -48,12 +48,14 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="32" height="32" />
    <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" width="32" height="32" />
    </p>
-<h4 align="left">Machine learning</h4>
+<h4 align="left">Machine learning & Robotics</h4>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
+
    <h4 align="left">Database</h4>
  <p align="left"> 
 <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="32" height="32" />
@@ -62,7 +64,6 @@ Here are some ideas to get you started:
 
    
    <h4 align="left">Robotics</h4>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="32" height="32" />
 
 
 
@@ -78,11 +79,8 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<p align="center">
+<p align="left">
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=ff0000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
-</p>
-
-<p align="center">
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=ff8c02&currStreakNum=000000&currStreakLabel=ff0000&sideNums=000000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
 
