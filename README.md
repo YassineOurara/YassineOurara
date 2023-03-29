@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h3>
+<h5 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h5>
 
 ## Skills 
    <h4 align="left">Programming Languages</h4>
@@ -66,9 +66,8 @@ Here are some ideas to get you started:
 
 ## Stats
 
-<p align="left">
-<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ff0000&icon_color=ff0000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a></p>
-<p align="right">
+<p align="center">
+<a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=ff8c02&currStreakNum=000000&currStreakLabel=ff0000&sideNums=000000&sideLabels=ff0000&dates=ff0000&hide_border=true" /></a>
 </p>
 
