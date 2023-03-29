@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&hide=&count_private=true&title_color=000000&text_color=6A6A6A&icon_color=000000&bg_color=bbbbbb&hide_border=true&show_icons=true" alt="yassineourara's GitHub stats" /></a>
-<a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=FE9200&currStreakNum=000000&currStreakLabel=FE9200&sideNums=000000&sideLabels=474747&dates=474747&hide_border=true" /></a>
+<a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=FE9200&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=474747&dates=474747&hide_border=true" /></a>
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
