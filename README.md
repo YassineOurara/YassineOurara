@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" /></p>
+   <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" />
+</p>
+
    <h4 align="left">App developement</h4>
    <p align="left"> 
    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" alt="androidstudio" width="40" height="40"/> </a> 
