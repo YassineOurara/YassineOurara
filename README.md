@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ## Skills 
    <h4 align="left">Programming Languages</h4>
 <p align="left"> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />
@@ -28,11 +27,11 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" />
 </p>
 
-   <h4 align="left">App developement</h4>
+   <h4 align="left">Developement</h4>
    <p align="left"> 
+   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="32" height="32" />
       <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="androidstudio" width="40" height="40"/> 
       <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="32" height="32" />
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
       <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" width="32" height="32" />
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32" height="32" /></p>
    <h4 align="left">Database</h4>
  <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="32" height="32" />
+<img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" height="32" /></p>
    <h4 align="left">Machine learning</h4>
