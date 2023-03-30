@@ -1,7 +1,5 @@
 
-<h1 align="center"> Hey (أهلا) 👋 My name is YASSINE OURARA </h1> <p align="right"> 
-<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
-</p>
+<h1 align="center"> Hey (أهلا) 👋 My name is YASSINE OURARA </h1> 
 
 <!--
 **YassineOurara/YassineOurara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h4>
+
 
 ## Skills 
    <h4 align="left">Programming Languages</h4>
@@ -74,5 +73,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
+<p align="right"> 
+<a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
+</p>
 
 
