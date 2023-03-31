@@ -31,9 +31,9 @@ Here are some ideas to get you started:
    <h4 align="left">Developement</h4>
    <p align="left"> 
    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="32" height="32" />
+      <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="32" height="32" />
       <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="androidstudio" width="40" height="40"/> 
-      <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="32" height="32" />
-   <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="32" height="32" />
+      
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
       <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" width="32" height="32" />
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" width="32" height="32" />
    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="32" height="32" />
    <img src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png" width="32" height="32"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"  alt="netbeans" width="32" height="32" />
    <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"  alt="netbeans" width="32" height="32" />
    </p>
 <h4 align="left">Machine learning & Robotics</h4>
