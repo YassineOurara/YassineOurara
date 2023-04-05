@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 -->
 <h4 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h4>
 
-
+<hr>
+<div style="display:inline-block;">
+<div >
    
 ## Skills 
    <h4 align="left">Programming Languages</h4>
