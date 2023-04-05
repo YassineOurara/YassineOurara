@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 <h4 align="center"> A MASTER STUDENT ARTIFICIAL INTELLIGENCE AND DATA ANALITICS </h4>
 
-
+<hr>
+<div style="display:inline-block;">
+<div >
+   
 ## Skills 
    <h4 align="left">Programming Languages</h4>
 <p align="left"> 
@@ -65,7 +68,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="32" height="32" /></p>
 
-
+<hr>
+<div style="display:inline-block;">
+<div >
 
 ## Stats
 
@@ -75,8 +80,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
-<p align="right"> 
+<p align="center"> 
 <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
+   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 </p>
-
-
