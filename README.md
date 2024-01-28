@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
+
 <hr>
 <div style="display:inline-block;">
 <div >
@@ -22,7 +24,6 @@ Here are some ideas to get you started:
 
 <hr>
 <div style="display:inline-block;">
-      <p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
 
 <div >
    
