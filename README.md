@@ -3,6 +3,7 @@
 <div >
 <h1 align="center"> Hey (أهلا) 👋 My name is YASSINE OURARA </h1> 
 
+
 <!--
 **YassineOurara/YassineOurara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +22,8 @@ Here are some ideas to get you started:
 
 <hr>
 <div style="display:inline-block;">
+      <p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
+
 <div >
    
 ## Skills 
@@ -81,7 +84,6 @@ Here are some ideas to get you started:
 <a href="http://www.github.com/yassineourara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&stroke=000000&background=bbbbbb&ring=ff8c02&fire=FE9200&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=474747&hide_border=true" /></a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=YassineOurarai&label=Profile%20views&color=000000&style=flat" alt="YassineOurara" /> </p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/yassine-ourara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32" /></a> 
    <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
