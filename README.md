@@ -33,19 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <a href="http://www.github.com/yassineourara">
-    <img src="https://github-readme-stats.vercel.app/api?username=yassineourara&show_icons=true&count_private=true&theme=graywhite&hide_border=true" />
-  </a>
-  <a href="http://www.github.com/yassineourara">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineourara&theme=graywhite&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 📬 Connect with Me
 <p align="center">
